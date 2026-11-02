@@ -1,0 +1,18 @@
+# Executáveis gerados pela compilação
+projeto_redes_4b
+*.exe
+*.out
+
+# Arquivos objeto
+*.o
+*.obj
+
+# Pastas de IDEs/editores
+.vscode/
+.idea/
+*.dev
+*.layout
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
